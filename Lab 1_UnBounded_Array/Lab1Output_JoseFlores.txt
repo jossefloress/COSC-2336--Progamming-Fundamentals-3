@@ -1,0 +1,35 @@
+****************** UB_Array U1 ******************
+CABSD
+
+Using operator[], index 8 is B.
+Using At(), Index 23 is D.
+
+First item is C.
+The next item is A.
+Last item is D.
+The previous item is S.
+
+The size of UB_Array U1 before using Remove() is 5.
+Remove() has been applied to UB_Array U1.
+This value was copied during Remove(): S.
+The size of UB_Array U1 after using Remove() is 4.
+
+
+
+****************** UB_Array U2 ******************
+Using operator[], index myStr is 2.
+Using At(), Index myStr is 2.
+
+First item is 2.
+The next item is 4.
+Last item is 4.
+The previous item is 2.
+
+The size of UB_Array U2 before using Remove() is 2.
+Remove() has been applied to UB_Array U2.
+This value was copied during Remove(): 4.
+The size of UB_Array U2 after using Remove() is 1.
+
+Press any key to continue . . .
+
+

@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\fj260\Dropbox\Collin College\Computer_Science_3\Labs\Lab 1_Final_Final\UB_Array.h(204): warning C4715: 'UB_Array<int,char>::Remove': not all control paths return a value
+C:\Users\fj260\Dropbox\Collin College\Computer_Science_3\Labs\Lab 1_Final_Final\UB_Array.h(204): warning C4715: 'UB_Array<WCS_String,D>::Remove': not all control paths return a value
+  (01-27) UB_Array.vcxproj -> C:\Users\fj260\Dropbox\Collin College\Computer_Science_3\Labs\Lab 1_Final_Final\x64\Debug\(01-27) UB_Array.exe

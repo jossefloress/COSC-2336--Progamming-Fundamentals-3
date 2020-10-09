@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  WCS_String.cpp
+  Generating Code...
+RefCount.obj : warning LNK4204: 'C:\Users\fj260\Dropbox\Collin College\Computer_Science_3\Labs\Lab 3_RandomAccessFile\x64\Debug\vc142.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  (02-24) RAFile.vcxproj -> C:\Users\fj260\Dropbox\Collin College\Computer_Science_3\Labs\Lab 3_RandomAccessFile\x64\Debug\(02-24) RAFile.exe
