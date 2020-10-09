@@ -4,4 +4,6 @@ Programs I made in my COSC 2336 class.
 The programs/labs in this repository include:
 State Machine, Parser, Random Access File, Unbounded Stack, and Unbounded Array.
 
+All programs were built on Microsoft Visual Studio
+
 
