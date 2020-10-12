@@ -2,7 +2,7 @@
 Programs I made in my COSC 2336 class. 
 
 The programs/labs in this repository include:
-Parser, Random Access File, Unbounded Stack, and Unbounded Array.
+Math Tree, Parser, Random Access File, Unbounded Stack, and Unbounded Array.
 
 Inside each lab folder there's a zip file that has all the files for that lab. 
 
